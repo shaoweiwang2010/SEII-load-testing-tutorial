@@ -1,0 +1,58 @@
+pcputimes(user=9772.234375, system=575.328125, children_user=0.0, children_system=0.0),5.978396662466772,<bound method Process.cpu_percent of psutil.Process(pid=27104, name='java.exe', status='running', started='15:14:18')>
+pcputimes(user=9804.59375, system=575.484375, children_user=0.0, children_system=0.0),5.9090183551713285,<bound method Process.cpu_percent of psutil.Process(pid=27104, name='java.exe', status='running', started='15:14:18')>
+pcputimes(user=9836.890625, system=575.78125, children_user=0.0, children_system=0.0),5.9090183551713285,<bound method Process.cpu_percent of psutil.Process(pid=27104, name='java.exe', status='running', started='15:14:18')>
+pcputimes(user=9844.09375, system=577.0625, children_user=0.0, children_system=0.0),5.910861974526032,<bound method Process.cpu_percent of psutil.Process(pid=27104, name='java.exe', status='running', started='15:14:18')>
+pcputimes(user=9869.828125, system=578.9375, children_user=0.0, children_system=0.0),5.912171914593848,<bound method Process.cpu_percent of psutil.Process(pid=27104, name='java.exe', status='running', started='15:14:18')>
+pcputimes(user=9903.234375, system=579.0625, children_user=0.0, children_system=0.0),5.912171914593848,<bound method Process.cpu_percent of psutil.Process(pid=27104, name='java.exe', status='running', started='15:14:18')>
+pio(read_count=825163, write_count=814804, read_bytes=3053870589, write_bytes=4445215436, other_count=8547101, other_bytes=107218652),5.7930401428707965,523.4
+pio(read_count=826616, write_count=819025, read_bytes=3062753718, write_bytes=4475505405, other_count=8567759, other_bytes=107489741),5.796436283787357,629.6
+pio(read_count=826616, write_count=819056, read_bytes=3062753718, write_bytes=4475514028, other_count=8571268, other_bytes=107531799),5.796436283787357,640.6
+pio(read_count=826616, write_count=819851, read_bytes=3062753718, write_bytes=4481029697, other_count=8573719, other_bytes=107548943),5.796436283787357,429.7
+pio(read_count=828201, write_count=823990, read_bytes=3072552843, write_bytes=4510820351, other_count=8594971, other_bytes=107816062),5.793986210697553,495.2
+pio(read_count=828201, write_count=824052, read_bytes=3072552843, write_bytes=4510837597, other_count=8605145, other_bytes=107884803),5.793792145502321,659.4
+pio(read_count=828201, write_count=824117, read_bytes=3072552843, write_bytes=4510861273, other_count=8625619, other_bytes=108076563),5.801724560357429,395.4
+pio(read_count=829822, write_count=824506, read_bytes=3082773982, write_bytes=4512962027, other_count=8640617, other_bytes=108197088),5.8056786387102814,648.4
+pio(read_count=829822, write_count=825269, read_bytes=3082773982, write_bytes=4518629233, other_count=8642435, other_bytes=108231182),5.808371293294125,301.4
+pio(read_count=829822, write_count=825943, read_bytes=3082773982, write_bytes=4523540726, other_count=8643055, other_bytes=108232570),5.809729749660749,508.0
+pio(read_count=829822, write_count=825995, read_bytes=3082773982, write_bytes=4523599647, other_count=8644532, other_bytes=108266429),5.80985104040777,332.5
+pio(read_count=829822, write_count=826297, read_bytes=3082773982, write_bytes=4525810947, other_count=8644534, other_bytes=108266461),5.871685063238569,456.8
+pio(read_count=829822, write_count=827199, read_bytes=3082773982, write_bytes=4532611551, other_count=8645435, other_bytes=108281421),5.879471929197254,358.2
+pio(read_count=829822, write_count=827246, read_bytes=3082773982, write_bytes=4532680429, other_count=8645596, other_bytes=108281753),5.879981350334738,445.8
+pio(read_count=829822, write_count=827534, read_bytes=3082773982, write_bytes=4534719562, other_count=8646895, other_bytes=108314859),5.881072967057918,510.6
+pio(read_count=829822, write_count=828397, read_bytes=3082773982, write_bytes=4540936722, other_count=8649143, other_bytes=108350333),5.881315548551958,483.4
+pio(read_count=829822, write_count=829895, read_bytes=3082773982, write_bytes=4552331009, other_count=8650535, other_bytes=108352353),5.881412581149574,117.2
+pio(read_count=831443, write_count=832651, read_bytes=3092995121, write_bytes=4572899986, other_count=8658041, other_bytes=108424527),5.88187348598825,92.2
+pio(read_count=832953, write_count=834898, read_bytes=3101709457, write_bytes=4587311367, other_count=8693541, other_bytes=108776993),5.884735947617922,530.4
+pio(read_count=832953, write_count=834929, read_bytes=3101709457, write_bytes=4587319990, other_count=8697162, other_bytes=108819503),5.884857238364942,545.0
+pio(read_count=832953, write_count=840244, read_bytes=3101709457, write_bytes=4627484611, other_count=8704689, other_bytes=108894190),5.888180604833291,363.3
+pio(read_count=834406, write_count=841054, read_bytes=3110308199, write_bytes=4631225753, other_count=8751627, other_bytes=109455326),5.891722294646275,589.0
+pio(read_count=836027, write_count=844562, read_bytes=3120529338, write_bytes=4657450464, other_count=8761583, other_bytes=109542888),5.888326153729715,228.1
+pio(read_count=837418, write_count=848109, read_bytes=3129111825, write_bytes=4681860858, other_count=8798360, other_bytes=109947465),5.8881320885344826,494.1
+pio(read_count=839039, write_count=851705, read_bytes=3139332964, write_bytes=4708160418, other_count=8811548, other_bytes=110048361),5.888398928177926,232.2
+pio(read_count=840586, write_count=855092, read_bytes=3149187579, write_bytes=4730803794, other_count=8842527, other_bytes=110478039),5.896234310435419,665.9
+pio(read_count=842207, write_count=860142, read_bytes=3159408718, write_bytes=4767579229, other_count=8861407, other_bytes=110643802),5.945454095576138,461.4
+pio(read_count=843828, write_count=862457, read_bytes=3169629857, write_bytes=4783419608, other_count=8880057, other_bytes=110930077),5.895797663746148,616.7
+pio(read_count=845191, write_count=868308, read_bytes=3178075915, write_bytes=4825954543, other_count=8904834, other_bytes=111278134),5.895166951861643,709.7
+pio(read_count=845191, write_count=871686, read_bytes=3178075915, write_bytes=4851439912, other_count=8910779, other_bytes=111360547),5.896161535987207,184.4
+pio(read_count=846812, write_count=875098, read_bytes=3188297054, write_bytes=4875031919, other_count=8947100, other_bytes=111815207),5.901983491844168,630.5
+pio(read_count=848049, write_count=880124, read_bytes=3194468783, write_bytes=4911733147, other_count=8961741, other_bytes=111900373),5.902104782591187,440.2
+pio(read_count=848049, write_count=880278, read_bytes=3194468783, write_bytes=4911961851, other_count=8997492, other_bytes=112279119),5.900503744730524,653.6
+pio(read_count=849541, write_count=886098, read_bytes=3202977438, write_bytes=4954505834, other_count=9031874, other_bytes=112590212),5.898053671640719,701.3
+pio(read_count=849541, write_count=887219, read_bytes=3202977438, write_bytes=4962549422, other_count=9034987, other_bytes=112626670),5.898077929790124,149.2
+pio(read_count=851132, write_count=891738, read_bytes=3212609609, write_bytes=4995055313, other_count=9070093, other_bytes=113002119),5.900794842523371,664.4
+pio(read_count=851132, write_count=896184, read_bytes=3212609609, write_bytes=5028651587, other_count=9075550, other_bytes=113013123),5.9009403914197955,246.9
+pio(read_count=852717, write_count=898071, read_bytes=3222220613, write_bytes=5041492263, other_count=9117343, other_bytes=113414470),5.90193497554536,678.3
+pio(read_count=854338, write_count=903019, read_bytes=3232441752, write_bytes=5078752371, other_count=9128485, other_bytes=113484271),5.897835348296083,433.4
+pio(read_count=854338, write_count=905286, read_bytes=3232441752, write_bytes=5094690443, other_count=9155750, other_bytes=113861954),5.882916586412622,655.1
+pio(read_count=856607, write_count=911836, read_bytes=3245278208, write_bytes=5142522854, other_count=9178803, other_bytes=114141215),5.878525861370498,610.8
+pio(read_count=857014, write_count=912352, read_bytes=3248487923, write_bytes=5145547239, other_count=9189068, other_bytes=114282160),5.879860059587718,360.9
+pio(read_count=858374, write_count=918493, read_bytes=3255295544, write_bytes=5190689159, other_count=9214960, other_bytes=114626619),5.884784463916731,683.5
+pio(read_count=858374, write_count=921006, read_bytes=3255295544, write_bytes=5209765672, other_count=9218064, other_bytes=114632959),5.885002787261366,147.6
+pio(read_count=859926, write_count=925108, read_bytes=3264919006, write_bytes=5238963710, other_count=9256240, other_bytes=115023584),5.884711689468518,663.2
+pio(read_count=859926, write_count=925329, read_bytes=3264919006, write_bytes=5240160171, other_count=9257660, other_bytes=115057110),5.884711689468518,536.7
+pio(read_count=859926, write_count=927355, read_bytes=3264919006, write_bytes=5254608297, other_count=9262803, other_bytes=115066482),5.885196852456598,115.6
+pio(read_count=859926, write_count=931190, read_bytes=3264919006, write_bytes=5284807362, other_count=9266362, other_bytes=115104184),5.967504753384375,344.5
+pio(read_count=861503, write_count=931849, read_bytes=3274895931, write_bytes=5287711951, other_count=9285142, other_bytes=115389177),5.884396333526267,604.4
+pio(read_count=861503, write_count=931880, read_bytes=3274895931, write_bytes=5287720574, other_count=9286463, other_bytes=115422487),5.884396333526267,571.9
+pio(read_count=861503, write_count=932665, read_bytes=3274895931, write_bytes=5293606445, other_count=9287677, other_bytes=115438315),5.884080977584015,609.0
+pio(read_count=861503, write_count=935807, read_bytes=3274895931, write_bytes=5316561866, other_count=9293708, other_bytes=115448259),5.8841052357334185,109.3
